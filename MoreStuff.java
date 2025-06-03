@@ -13,8 +13,9 @@ public class MoreStuff
     
     public MoreStuff()
     {
-     // TBC
+     // TBC More comments
     }
 
+    // End of constructor.
     
 }
